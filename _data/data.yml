@@ -22,7 +22,8 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+	  
+	  - idiom: Kannada
 
     interests:
       - item: Climbing
