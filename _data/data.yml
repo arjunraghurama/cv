@@ -22,11 +22,13 @@ sidebar:
 
     languages:
       - idiom: English
-	  
+        level: 
+		
 	  - idiom: Kannada
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Badminton and Cricket
         link:
 
 career-profile:
