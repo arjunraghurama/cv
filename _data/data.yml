@@ -67,10 +67,16 @@ skills:
 
     toolset:
       - name: C++
-        level: 98%
+        level: 70%
 
-      - name: Algorithms
-        level: 98%
+      - name: Doceker
+        level: 50%
+        
+      - name: RESTful Web Services
+        level: 50%
+        
+      - name: C#
+        level: 50%
 
 
 footer: >
