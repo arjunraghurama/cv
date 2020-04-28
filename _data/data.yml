@@ -33,9 +33,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit.
-      Second paragraph if required.
+      To be added.
       
 education:
     - degree: BE in Electronics and Communication
@@ -54,9 +52,8 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Details will be added.
+      
     assignments:
       - title: 
         link: "#"
