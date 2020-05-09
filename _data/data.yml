@@ -27,7 +27,7 @@ sidebar:
         level: 
 
     interests:
-      - item: Badminton and Cricket
+      - item: Badminton, Cricket, Photography, Trekking
         link:
 
 career-profile:
@@ -56,10 +56,19 @@ education:
     
 experiences:
     - role: Software Engineer
-      time: 2016 - Present
+      time: 2017 - Present
       company: Toshiba Software India Pvt Ltd, Bangalore
       details: |
-        
+      
+    - role: Associate Software Engineer
+      time: 2016 - 2017
+      company: Toshiba Software India Pvt Ltd, Bangalore
+      details: |
+      
+    - role: Project Trainee
+      time: Jann 2016 - Apr 2016
+      company: ISRO Satellite Centre
+      details: |
     
 projects:
     title: Projects
@@ -91,7 +100,7 @@ skills:
       - name: Doceker
         level: 50%
         
-      - name: RESTful Web Services
+      - name: REST
         level: 50%
         
       - name: C#
