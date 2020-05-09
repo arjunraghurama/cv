@@ -78,9 +78,9 @@ projects:
     title: <b>Projects</b>
     intro: >
     assignments:
-      - title: <b>Network-based Data Storage</b>
+      - title: <b><ul><li>Network-based Data Storage (11/2018 – 04/2019)<li></ul></b>
         link: "#hook"
-        tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module. <br><b>Skills and Tools</b> : C++, SQL, MSMQ, Tinybrace, Serialization, TCP/IP "
+        tagline: "<ul><li> Skills/Tools: <li></ul> In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module. <br><b>Skills and Tools</b> : C++, SQL, MSMQ, Tinybrace, Serialization, TCP/IP "
    
       - title: <b>Distributed Data Access</b>
         link: "#hook"
