@@ -90,6 +90,15 @@ projects:
         link: "#hook"
         tagline: "Here our requirement is to develop Registration application using UWP. This application should work on Desktop and Tablet of various screen size. This UWP app has to use legacy Win32 modules and work with other Win32 GUI applications"
 
+publications:
+    title: Certifications
+    intro: |
+    papers:
+      - title: Google Cloud Platform Fundamentals: Core Infrastructure
+        link: "https://www.coursera.org/account/accomplishments/certificate/FU9D32Z5GFF2"
+        authors: 
+        conference: 
+
 skills:
     title: Skills &amp; Proficiency
 
