@@ -80,7 +80,6 @@ projects:
       In this project, the modality system database has to be
       synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done
       in the backend module.
-.
       
     title: Distributed Data Access
     intro: >
