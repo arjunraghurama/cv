@@ -107,7 +107,7 @@ skills:
         level: 80%
 
       - name: Docker
-        level: 70%%
+        level: 70%
         
       - name: REST
         level: 50%
@@ -116,7 +116,7 @@ skills:
         level: 60%
         
       - name: Data Structures &amp; STL
-        level: 70%%
+        level: 70%
 
 footer: >
    Designed with <i class="fas fa-heart"></i>
