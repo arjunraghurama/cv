@@ -78,17 +78,17 @@ projects:
     title: <b>Projects</b>
     intro: >
     assignments:
-      - title: <b> » Network-based Data Storage (11/2018 – 04/2019)<li></b>
+      - title: <b> » Network-based Data Storage (11/2018 – 04/2019)</b>
         link: "#hook"
         tagline: "<ul> <li> Skills/Tools: C++, SQL, MSMQ, Serialization, TCP/IP<li> <li>Description: The modality system database had to be synchronized with a database which exists in the network. Both the databases are RDBMS. The data synchronization has done in the back-end module</li><li>Roles: Initial synchronization of two databases, Implemented SQL Parser to extract and transfer the data</li> </ul>  "
    
-      - title: <b>Distributed Data Access</b>
+      - title: <b> » Distributed Data Access</b>
         link: "#hook"
-        tagline: "Objective of this project is accessing data from different modality system using DB-Server through networks. The data access includes data from DB and binary files. We have done a prototype for this project. Important aspect of this project is performance evaluation and improvements. <br> <b>Skills/Tools</b> : C++, SQL, Tinybrace, Cache, Serialization, Multithreading"
+        tagline: "<ul><li>Skills/Tools: </li><li>Description: </li><li>Roles: </li></ul>"
     
-      - title: <b>UWP Prototyping</b>
+      - title: <b> » UWP Prototyping</b>
         link: "#hook"
-        tagline: "Here our requirement is to develop Registration application using UWP. This application should work on Desktop and Tablet of various screen size. This UWP app has to use legacy Win32 modules and work with other Win32 GUI applications. <br><b>Skills/Tools</b> : C++/CLI, C#, UWP, REST"
+        tagline: "<ul><li>Skills/Tools: </li><li>Description:</li><li>Roles:</li></ul>"
 
 publications:
     title: <b>Certifications</b>
