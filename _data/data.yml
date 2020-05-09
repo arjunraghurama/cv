@@ -31,7 +31,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: <b>Career Profile</b>
     summary: |
       I'm currently working as a Software Engineer in Toshiba Software
       (India) Pvt. Ltd. Its been 3+ years of experience in developing
@@ -59,40 +59,39 @@ education:
       
     
 experiences:
-    - role: Software Engineer
+    - role: <b>Software Engineer</b>
       time: May 2017 - Present
       company: Toshiba Software India Pvt Ltd, Bangalore
       details: |
       
-    - role: Associate Software Engineer
+    - role: <b>Associate Software Engineer</b>
       time: Dec 2016 - Apr 2017
       company: Toshiba Software India Pvt Ltd, Bangalore
       details: |
       
-    - role: Project Trainee
+    - role: <b>Project Trainee</b>
       time: Jan 2016 - Apr 2016
       company: ISRO Satellite Centre
       details: |
     
 projects:
-    title: Projects
+    title: <b>Projects</b>
     intro: >
     assignments:
       - title: <b>Network-based Data Storage</b>
         link: "#hook"
-        tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module 
-                         <br>Skills and Tools - C++, SQL, MSMQ, Tinybrace, Serialization, TCP/IP "
+        tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module. <br><b>Skills and Tools</b> : C++, SQL, MSMQ, Tinybrace, Serialization, TCP/IP "
    
       - title: <b>Distributed Data Access</b>
         link: "#hook"
-        tagline: "Objective of this project is accessing data from different modality system using DB-Server through networks. The data access includes data from DB and binary files. We have done a prototype for this project.  <br>Important aspect of this project is performance evaluation and improvements. Skills/Tools : C++, SQL, Tinybrace, Cache, Serialization, Multithreading"
+        tagline: "Objective of this project is accessing data from different modality system using DB-Server through networks. The data access includes data from DB and binary files. We have done a prototype for this project. Important aspect of this project is performance evaluation and improvements. <br> <b>Skills/Tools</b> : C++, SQL, Tinybrace, Cache, Serialization, Multithreading"
     
       - title: <b>UWP Prototyping</b>
         link: "#hook"
-        tagline: "Here our requirement is to develop Registration application using UWP. This application should work on Desktop and Tablet of various screen size. This UWP app has to use legacy Win32 modules and work with other Win32 GUI applications. <br>Skills/Tools : C++/CLI, C#, UWP, REST"
+        tagline: "Here our requirement is to develop Registration application using UWP. This application should work on Desktop and Tablet of various screen size. This UWP app has to use legacy Win32 modules and work with other Win32 GUI applications. <br><b>Skills/Tools</b> : C++/CLI, C#, UWP, REST"
 
 publications:
-    title: Certifications
+    title: <b>Certifications</b>
     intro: |
     papers:
       - title: "Google Cloud Platform Fundamentals: Core Infrastructure"
@@ -101,7 +100,7 @@ publications:
         conference: 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: <b>Skills &amp; Proficiency</b>
 
     toolset:
       - name: C++
