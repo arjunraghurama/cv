@@ -77,14 +77,10 @@ experiences:
 projects:
     title: Network-based Data Storage
     intro: >
-      In this project, the modality system database has to be
-      synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done
-      in the backend module.
-      
-    title: Distributed Data Access
-    intro: >
-      Objective of this project is accessing data from different modality
-      system using DB-Server through networks. The data access includes data from DB and binary files. We have done a prototype for this project. Important aspect of this project is performance evaluation & improvements
+    assignments:
+      - title: Network-based Data Storage
+        link: "#hook"
+        tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module"
       
       
       
