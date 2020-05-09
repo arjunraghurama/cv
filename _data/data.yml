@@ -82,15 +82,14 @@ projects:
         link: "#hook"
         tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module"
    
-   assignments:
       - title: Distributed Data Access
         link: "#hook"
         tagline: "Objective of this project is accessing data from different modality system using DB-Server through networks. The data access includes data from DB and binary files. We have done a prototype for this project. Important aspect of this project is performance evaluation and improvements."
     
-    assignments:
       - title: UWP Prototyping
         link: "#hook"
         tagline: "Here our requirement is to develop Registration application using UWP. This application should work on Desktop and Tablet of various screen size. This UWP app has to use legacy Win32 modules and work with other Win32 GUI applications"
+
 skills:
     title: Skills &amp; Proficiency
 
