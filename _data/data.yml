@@ -114,7 +114,9 @@ skills:
         
       - name: C#
         level: 50%
-
+        
+      - name: Data Structures &amp; STL
+        level: 50%
 
 footer: >
    
