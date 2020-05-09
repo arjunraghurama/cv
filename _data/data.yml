@@ -41,6 +41,16 @@ education:
       time: 2012-2016
       details: |
       
+    - degree: 12th Standard
+      university: Viveka Pre-University College 
+      time: 2012
+      details: Score - 91%
+      
+    - degree: 10th Standard
+      university: Viveka English Medium High School
+      time: 2010
+      details: Score - 95%
+      
     
 experiences:
     - role: Software Engineer
