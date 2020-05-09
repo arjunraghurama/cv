@@ -12,7 +12,7 @@ sidebar:
     phone: 9739053458
     website: 
     linkedin: arjunraghurama
-    github: 
+    github: arjunraghurama
     gitlab:
     bitbucket:
     twitter: 
@@ -33,7 +33,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      To be added.
+      I'm currently working as a Software Engineer in Toshiba Software
+      (India) Pvt. Ltd. Its been 3+ years of experience in developing
+      software. Love problem solving. My intellectual curiosity has driven
+      me to be a lifelong learner.
+
       
 education:
     - degree: BE in Electronics and Communication
