@@ -81,21 +81,6 @@ projects:
       - title: Network-based Data Storage
         link: "#hook"
         tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module"
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    assignments:
-      - title: 
-        link: "#"
-        tagline: ""
 
 skills:
     title: Skills &amp; Proficiency
