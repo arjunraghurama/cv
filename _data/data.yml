@@ -104,19 +104,19 @@ skills:
 
     toolset:
       - name: C++
-        level: 70%
+        level: 80%
 
-      - name: Doceker
-        level: 50%
+      - name: Docker
+        level: 70%%
         
       - name: REST
         level: 50%
         
-      - name: C#
-        level: 50%
+      - name: Python
+        level: 60%
         
       - name: Data Structures &amp; STL
-        level: 50%
+        level: 70%%
 
 footer: >
    Designed with <i class="fas fa-heart"></i>
