@@ -80,7 +80,7 @@ projects:
     assignments:
       - title: Network-based Data Storage
         link: "#hook"
-        tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module"
+        tagline: "In this project, the modality system database has to be synchronized with one of the database which exist in the network. Both the databases are RDBMS. The data synchronization has done in the backend module \n Hello World"
    
       - title: Distributed Data Access
         link: "#hook"
