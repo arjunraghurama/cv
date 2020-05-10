@@ -27,7 +27,16 @@ sidebar:
         level: 
 
     interests:
-      - item: Badminton, Cricket, Photography, Trekking
+      - item: Badminton
+        link:
+      
+      - item: Cricket
+        link:
+      
+      - item: Photography
+        link:
+      
+      - item: Trekking
         link:
 
 career-profile:
