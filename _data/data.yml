@@ -91,7 +91,7 @@ projects:
     
       - title: <b> » Stream Hub (11/2019 – 04/2020)</b>
         link: 
-        tagline: "<ul></li><li>Description:</b> A PUB-SUB data transfer system was given to us for adding Test cases and new feature implementation</li><li><b>Roles:</b> Added multiple unit test cases for various features and developed a re-try mechanism for TCP connection</li></ul>"
+        tagline: "<ul><li><b>Description:</b> A PUB-SUB data transfer system was given to us for adding Test cases and new feature implementation</li><li><b>Roles:</b> Added multiple unit test cases for various features and developed a re-try mechanism for TCP connection</li></ul>"
         
       - title: <b> » Network Based Huge Data Storage (05/2019-10/2019) </b>
         link: 
