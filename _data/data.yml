@@ -88,23 +88,27 @@ projects:
     intro: >
     assignments:
     
-      - title: <b> » Stream Hub (11/2019 – 04/2020)</b>
+      - title: <b> » Medical Record Proxy (04/2020 – 09/2020)</b>
+        link: 
+        tagline: "<ul><li><b>Description:</b> Various micro services were required to be developed in a containerized environment. </li><li><b>Roles:</b> Implemented multiple RESTful micro services and deployed them in Docker containers.</li></ul>"
+        
+      - title: <b> » Stream Hub (10/2019 – 03/2020)</b>
         link: 
         tagline: "<ul><li><b>Description:</b> Implementing new feature and adding Unit Test cases for a PUB-SUB system. </li><li><b>Roles:</b> Added multiple unit test cases for various features and developed a re-try mechanism for TCP connection.</li></ul>"
         
-      - title: <b> » Network Based Huge Data Storage (05/2019-10/2019) </b>
+      - title: <b> » Network Based Huge Data Storage (04/2019 - 09/2019) </b>
         link: 
         tagline: "<ul><li><b>Description: </b>A seamless way to display Patient records from two Databases with Caching. </li><li><b>Roles:</b> Implemented multiple API’s to facilitate reading from two databases and merging the data; and a simple LRU Caching mechanism in the database. </li></ul>"
         
-      - title: <b> » Network-based Data Storage (11/2018 – 04/2019) </b>
+      - title: <b> » Network-based Data Storage (10/2018 – 03/2019) </b>
         link: 
         tagline: "<ul><li><b>Description:</b> The modality system database had to be synchronized with a database which exists in the network. Both the databases are RDBMS. The data synchronization had to be done as a background service. </li><li><b>Roles:</b> Implemented SQL Parser to extract and transfer the data; and initial synchronization of two databases.</li></ul>"
         
-      - title: <b> » Distributed Data Access (05/2018 – 10/2018) </b>
+      - title: <b> » Distributed Data Access (04/2018 – 09/2018) </b>
         link: 
         tagline: "<ul><li><b>Description:</b> The project aimed at accessing data from distributed database using DB-Server. The data access includes data from DB and binary ﬁles. We developed a prototype which enhanced the performance.</li><li><b>Roles:</b> Changed the existing data access layer to support the distributed data access and performance tuning of SQL queries.</b></li></ul>"
     
-      - title: <b> » UWP Prototyping (11/2017 – 04/2018) </b>
+      - title: <b> » UWP Prototyping (10/2017 – 03/2018) </b>
         link: 
         tagline: "<ul><li><b>Description: </b>This project required developing a registration application using UWP which would work on Desktop and Tablet of various screen size. This UWP app had to use legacy Win-32 modules and work with other Win-32 GUI applications. </li><li><b>Roles:</b> Developed the UI for registration application. </li></ul>"
 
