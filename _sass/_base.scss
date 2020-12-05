@@ -3,7 +3,6 @@ body {
     font-family: 'Cascadia Code', 'Lucida Sans', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
-    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
     font-size: 14px;
     padding: 30px;
     -webkit-font-smoothing: antialiased;
@@ -155,7 +154,8 @@ p {
 }
 
 .main-wrapper {
-    background: #fff;
+    //background: #fff;
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
     padding: 60px;
     padding-right: 340px;
     .section-title {
