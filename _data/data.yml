@@ -127,11 +127,14 @@ skills:
     toolset:
       - name: C++
         level: 80%
+        
+      - name: C#
+        level: 70%
 
       - name: Docker
         level: 70%
         
-      - name: REST
+      - name: REST, Microservice
         level: 50%
         
       - name: Python
