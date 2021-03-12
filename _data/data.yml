@@ -90,7 +90,7 @@ projects:
     
       - title: <b> » Data Access Logs (10/2020 – 02/2021)</b>
         link: 
-        tagline: "<ul><li><b>Description:</b> Storing data access logs on private Hyperledger Fabric block chain network </li><li><b>Roles:</b>  Scripts to deploy the Hyperledger Fabric network and REST Gateway to interact with the network. </li></ul>"
+        tagline: "<ul><li><b>Description:</b> Storing data access logs on private Hyperledger Fabric block chain network </li><li><b>Roles:</b>  Bash scripts to deploy the Hyperledger Fabric network and REST Gateway to interact with the network. </li></ul>"
         
       - title: <b> » Medical Record Proxy (04/2020 – 09/2020)</b>
         link: 
